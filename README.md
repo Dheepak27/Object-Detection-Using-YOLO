@@ -1,0 +1,1 @@
+This project focuses on object detection using YOLO algorithm.The object detected here is Tennis Ball(Green Color).The dataset used here consists of very limited amount of images collected from google.I have used makesense.ai to annotate the images and export the labels in yolo format.
