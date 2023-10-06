@@ -1,0 +1,5 @@
+
+train: datatennis/images/train
+val: datatennis/images/val
+nc: 1
+names: ['BALL']
